@@ -6,9 +6,18 @@
 <h2 align="center">&#x1F6A7 App Help Desc finalizado &#x1F6A7</h2>
 <br>
 
-<video align="center" width="500" height="240" controls>
-  <source src="demonstracao.mp4" type="video/mp4">
-</video>
+<h2>&#x1F6E0 Demonstrações:</h2>
+<br>
+<p align="center">
+<img src="login.png" alt="tela login" width="600px">
+<br><br>
+<img src="home.png" alt="tela home" width="600px">
+<br><br>
+<img src="abri-chamado.png" alt="tela abri chamado" width="600px">
+<br><br>
+<img src="consulta-chamado.png" alt="tela consulta chamado" width="600px">
+</p>
+<br>
 
 <h2>&#x1F6E0 Tecnologias:</h2>
 <p align="justify">As seguintes ferramentas foram usadas na construção do App Help Desk:</p>
