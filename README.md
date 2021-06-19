@@ -6,7 +6,7 @@
 <h2 align="center">&#x1F6A7 App Help Desc finalizado &#x1F6A7</h2>
 <br>
 
-<h2>&#x1F6E0 Demonstrações:</h2>
+<h2>&#x1F440 Demonstrações:</h2>
 <br>
 <p align="center">
 <img src="login.png" alt="tela login" width="600px">
